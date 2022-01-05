@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Lobster', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    display: flex;
+}
+.haf-with-content{
+    width: 50%;
+    padding-left: 5%;
+}
+.haf-with-content img{
+    width: 60%;
+}
+.hading{
+    margin-bottom: 40px;
+}
+samp{
+    color: rgb(255, 137, 58);
+}
+h1{
+    font-size: 50px;
+    border-left: 5px solid;
+    padding-left: 10px;
+    font-weight: 700;
+}
+#margine{
+    margin-top:100px;
+}
+.link{
+    text-decoration: none;
+    padding: 10px 40px;
+    display: inline-block;
+    margin-top: 20px;
+    font-weight: 700;
+    color: white;
+    background: salmon;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
