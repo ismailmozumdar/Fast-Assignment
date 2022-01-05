@@ -6,30 +6,32 @@ body{
     font-family: 'Lobster', cursive;
     font-family: 'Poppins', sans-serif;
 }
-section{
+.flex-content{
     display: flex;
 }
 .haf-with-content{
     width: 50%;
-    padding-left: 5%;
-}
-.haf-with-content img{
-    width: 60%;
-}
-.hading{
-    margin-bottom: 40px;
-}
-samp{
-    color: rgb(255, 137, 58);
-}
-h1{
-    font-size: 50px;
-    border-left: 5px solid;
-    padding-left: 10px;
-    font-weight: 700;
+    padding-left: 2%;
+    margin-left:50px;
 }
 #margine{
     margin-top:100px;
+}
+.haf-with-content img{
+    width: 70%;
+}
+span{
+    color: rgb(255, 137, 58);
+}
+h1{
+    margin-bottom: 40px;
+    border-left: 5px salmon solid;
+    font-size: 50px;
+    padding-left: 10px;
+    font-weight: 700;
+}
+p{
+    text-align: justify;
 }
 .link{
     text-decoration: none;
@@ -41,4 +43,55 @@ h1{
     background: salmon;
     border-radius: 5px;
     margin-bottom: 50px;
+}
+.Mission{
+    text-align: center;
+    margin-top: 50px;
+}
+.Mission h1{
+    margin-bottom: 30px;
+    color: #000075;
+}
+.Mission h3{
+    text-align: left;
+}
+.Mission img{
+    width:100px;
+    margin-top: 20px;
+    display:block;
+}
+#one{
+    background: rgb(187, 253, 121);
+    border-radius: 10px;
+    padding-right: 10px;
+}
+#two{
+    background: rgb(249, 228, 133);
+    border-radius: 10px;
+    padding-right: 10px;
+}
+#three{
+    margin-right: 50px;
+    background: rgb(253, 180, 121);
+    border-radius: 10px;
+    padding-right: 10px;
+}
+.Develop{
+    margin-top:100px;
+}
+.content-one{
+    width: 40%;
+    padding-left: 2%;
+    margin-left:50px;
+}
+.content-one img{
+    width:80%;
+}
+.content-two{
+    width: 60%;
+    padding-left: 2%;
+    margin-right:50px;
+}
+.content-two h2{
+    font-size: 40px;
 }
