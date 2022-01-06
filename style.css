@@ -136,10 +136,9 @@ footer{
 .footer-content h1{
     font-family: 'Lobster', cursive;
     margin-left: 50px;
-    margin-bottom: 0;
+    padding-top:30px;
+    text-align: center;
 }
-.footer-content{
-    margin-left: 450px;
-    padding-top: 40px;
-    width: 40%;
+.footer-content p{
+    text-align: center;
 }
