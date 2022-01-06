@@ -77,9 +77,7 @@ p{
     padding:30px;
     margin-right: 50px;
 }
-.Develop{
-    margin-top:100px;
-}
+
 .content-one{
     width: 40%;
     padding:50px;
@@ -160,8 +158,10 @@ h3{
 }
 .team-member{
     width: 50%;
-    margin: 2%;
+    height: 300px;
+    margin: 3%;
     padding: 3%;
+    border-radius: 10px;
 }
 .team-member img{
     width:40%;
