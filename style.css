@@ -18,7 +18,7 @@ body{
     margin-top:100px;
 }
 .haf-with-content img{
-    width: 70%;
+    width: 80%;
 }
 span{
     color: rgb(255, 137, 58);
@@ -64,18 +64,18 @@ p{
     display:block;
 }
 #one{
-    background: rgb(187, 253, 121);
+    background: #e4f9fc;
     border-radius: 10px;
     padding-right: 10px;
 }
 #two{
-    background: rgb(249, 228, 133);
+    background: rgb(254 228 205);
     border-radius: 10px;
     padding-right: 10px;
 }
 #three{
     margin-right: 50px;
-    background: rgb(253, 180, 121);
+    background: rgb(207 249 165);
     border-radius: 10px;
     padding-right: 10px;
 }
@@ -90,10 +90,16 @@ p{
 .content-one img{
     width:80%;
 }
-.content-two{
+#content-two{
     width: 60%;
     padding-left: 2%;
     margin-right:150px;
+    margin-top:30px;
+}
+#content-three{
+    width: 60%;
+    padding-left: 2%;
+    margin-left:100px;
     margin-top:30px;
 }
  h2{
@@ -104,4 +110,16 @@ p{
 }
 #use-margin{
     margin-top: 50px;
+}
+.Application{
+    text-align: center;
+}
+.Corona-Application{
+    margin-top: 80px;
+}
+#four{
+    background: rgb(255, 109, 138);
+    padding-left:10px ;
+    padding-top: 10px;
+    border-radius:50px 0 10px 0;
 }
