@@ -23,9 +23,12 @@ body{
 span{
     color: rgb(255, 137, 58);
 }
+.border{
+    border-left: 5px salmon solid;
+
+}
 h1{
     margin-bottom: 40px;
-    border-left: 5px salmon solid;
     font-size: 50px;
     padding-left: 10px;
     font-weight: 700;
