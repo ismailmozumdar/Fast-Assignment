@@ -46,7 +46,7 @@ p{
 }
 .Mission{
     text-align: center;
-    margin-top: 50px;
+    margin-top: 100px;
 }
 .Mission h1{
     margin-bottom: 30px;
@@ -90,8 +90,12 @@ p{
 .content-two{
     width: 60%;
     padding-left: 2%;
-    margin-right:50px;
+    margin-right:150px;
+    margin-top:30px;
 }
-.content-two h2{
+ h2{
     font-size: 40px;
+}
+.Community{
+    margin-top: 100px;
 }
