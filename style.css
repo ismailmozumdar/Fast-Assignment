@@ -18,7 +18,7 @@ body{
     margin-top:100px;
 }
 .haf-with-content img{
-    width: 80%;
+    width:70%;
 }
 span{
     color: rgb(255, 137, 58);
@@ -65,26 +65,26 @@ p{
 #one{
     background: #e4f9fc;
     border-radius: 10px;
-    padding-right: 10px;
+    padding:30px;
 }
 #two{
     background: rgb(254 228 205);
     border-radius: 10px;
-    padding-right: 10px;
+    padding:30px;
 }
 #three{
-    margin-right: 50px;
     background: rgb(207 249 165);
     border-radius: 10px;
-    padding-right: 10px;
+    padding:30px;
+    margin-right: 50px;
 }
 .Develop{
     margin-top:100px;
 }
 .content-one{
     width: 40%;
-    padding-left: 2%;
-    margin-left:50px;
+    padding:50px;
+    margin-left:100px;
 }
 .content-one img{
     width:80%;
@@ -141,4 +141,5 @@ footer{
 }
 .footer-content p{
     text-align: center;
+    margin-left:50px;
 }
