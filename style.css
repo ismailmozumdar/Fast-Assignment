@@ -27,7 +27,6 @@ span{
     border-left: 5px salmon solid;
 }
 h1{
-    margin-bottom: 40px;
     font-size: 50px;
     padding-left: 10px;
     font-weight: 700;
@@ -86,20 +85,20 @@ p{
     padding:50px;
     margin-left:100px;
 }
-.content-one img{
-    width:80%;
-}
-#content-two{
+.content-two{
+    margin-top: 80px;
     width: 60%;
     padding-left: 2%;
     margin-right:150px;
-    margin-top:30px;
 }
-#content-three{
+.content-one img{
+    width:80%;
+}
+.content-three{
     width: 60%;
     padding-left: 2%;
     margin-left:100px;
-    margin-top:30px;
+    margin-top:50px;
 }
  h2{
     font-size: 40px;
@@ -128,7 +127,7 @@ p{
 }
 footer{
     width: 100%;
-    height: 200px;
+    height:140px;
     background: black;
     color: white;
     margin-top:100px;
@@ -142,4 +141,29 @@ footer{
 .footer-content p{
     text-align: center;
     margin-left:50px;
+}
+h3{
+    font-size: 20px;
+    padding:10px;
+}
+.Team{
+    text-align: center;
+}
+.fast-parson{
+    background: rgb(248, 234, 154);
+}
+.second-parson{
+    background: rgb(175, 250, 140);
+}
+.lats-parson{
+    background: rgb(255, 158, 158);
+}
+.team-member{
+    width: 50%;
+    margin: 2%;
+    padding: 3%;
+}
+.team-member img{
+    width:40%;
+    border-radius: 50%;
 }
